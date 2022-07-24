@@ -47,4 +47,3 @@ end
 
 -- load
 venyx:SelectPage(venyx.pages[1], true)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Pastebin184/-CrazyHub/main/pain.lua"))() 
